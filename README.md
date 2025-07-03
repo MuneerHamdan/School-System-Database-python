@@ -1,2 +1,2 @@
 # School-System-Database-python
-School system database implementation in python
+School system database implementation in python, numpy, pandas
